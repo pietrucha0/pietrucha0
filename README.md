@@ -26,7 +26,7 @@
 <br/>
 
 
-### 📫 Let's connect!
+### Let's connect! 💗
 
 <div align="center">
   <a href="mailto:natalia.wojcik@archsys.pl">
