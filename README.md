@@ -9,7 +9,7 @@
 
 ### About me
 
-- 4th-year **IT student** (*Technik Programista*) based in **Warsaw, Poland**.
+- 4th-year **IT student** based in **Warsaw, Poland**.
 - Passionate about building modern, responsive web applications and crafting intuitive user interfaces.
 - Actively expanding my knowledge in **Next.js**, **TypeScript**, and full-stack web technologies.
 
